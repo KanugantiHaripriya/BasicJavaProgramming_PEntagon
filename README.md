@@ -83,4 +83,25 @@ It is designed to help beginners understand core Java concepts, improve problem-
 ### 🔹 TwoDArray
 - Practice  
 
+### Project Structure
+```
+├── .settings/
+├── bin/
+├── src/
+│ ├── Array/
+│ ├── IfElse/
+│ ├── Loops/
+│ ├── Numbers/
+│ ├── Operators/
+│ ├── Patterns/
+│ ├── Recursion/
+│ ├── SearchingTechniques/
+│ ├── SortingTechniques/
+│ ├── Strings/
+│ ├── Switch/
+│ ├── TwoDArray/
+│ └── module-info.java
+├── .classpath
+└── .project
+```
 ---
